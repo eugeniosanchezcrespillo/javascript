@@ -2,7 +2,7 @@
 Curso de javascript
 
 # Índice
-[0. Variables]: https://github.com/eugeniosanchezcrespillo/javascript/tree/main/0.Variables
+[0. Variables](https://github.com/eugeniosanchezcrespillo/javascript/tree/main/0.Variables)
 [1. Strings]: https://github.com/eugeniosanchezcrespillo/javascript/tree/main/1.Strings
 [2. Números]: https://github.com/eugeniosanchezcrespillo/javascript/tree/main/2.Numeros
 [3. Arrays]: https://github.com/eugeniosanchezcrespillo/javascript/tree/main/3.Arrays
