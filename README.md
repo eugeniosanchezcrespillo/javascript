@@ -14,6 +14,8 @@ Curso de javascript
 
 [5. Funciones](https://github.com/eugeniosanchezcrespillo/javascript/tree/main/5.Funciones)
 
+[6. Array Métodos](https://github.com/eugeniosanchezcrespillo/javascript/tree/main/5.ArrayMetodos)
+
 
 # Recursos
 **Roadmap:** https://roadmap.sh/javascript 

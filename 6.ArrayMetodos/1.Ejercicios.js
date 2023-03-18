@@ -5,36 +5,36 @@ const peliculas = [
 	{
 		titulo: "El club de la lucha",
 		year: 1999 ,
-		actores: ["Brad Pit","Edward Norton"]
-		oscars: 0
+		actores: ["Brad Pit","Edward Norton"],
+		oscars: 0,
 		presupuesto: 1000, 
 	},
 	{
 		titulo: "Matrix",
 		year: 1999,
-		actores: ["Keanu Reeves","Laurence Fishburne"]
-		oscars: 4
+		actores: ["Keanu Reeves","Laurence Fishburne"],
+		oscars: 4,
 		presupuesto: 6000, 
 	},
 	{
 		titulo: "Origen",
 		year: 2010,
-		actores: ["Leonardo Di Caprio",""]
-		oscars: 4
+		actores: ["Leonardo Di Caprio",""],
+		oscars: 4,
 		presupuesto: 60, 
 	},
 	{
 		titulo: "Forrest Gump",
 		year: 1994,
-		actores: ["Tom Hanks","Rebecca Williams"]
-		oscars: 6
+		actores: ["Tom Hanks","Rebecca Williams"],
+		oscars: 6,
 		presupuesto: 10, 
 	},
 	{
 		titulo: "The Blair Witch Project",
 		year: 1999,
-		actores: ["Heather Donahue","Joshua Leonard"]
-		oscars: 0
+		actores: ["Heather Donahue","Joshua Leonard"],
+		oscars: 0,
 		presupuesto: 5, 
 	},
 
