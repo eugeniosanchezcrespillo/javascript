@@ -16,8 +16,18 @@ Curso de javascript
 
 [6. Array Métodos](https://github.com/eugeniosanchezcrespillo/javascript/tree/main/6.ArrayMetodos)
 
+[7. Dom](https://github.com/eugeniosanchezcrespillo/javascript/tree/main/7.Dom)
+
 
 # Recursos
 **Roadmap:** https://roadmap.sh/javascript 
 
 **Editor online:** https://codepen.io/
+
+# Youtube
+
+https://www.youtube.com/@midudev
+
+https://www.youtube.com/@CarlosAzaustre
+
+
